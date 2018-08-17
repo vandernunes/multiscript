@@ -1,0 +1,8 @@
+Este Documento tem por objetivo descrever o uso do automatizador de tarefas,Multiscript.
+
+Descricao:
+
+Objetivo:
+
+Autor: Vander Nunes
+Data: 29/01/2012
